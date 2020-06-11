@@ -139,7 +139,7 @@
             this.listBox3.ItemHeight = 15;
             this.listBox3.Location = new System.Drawing.Point(409, 67);
             this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(426, 214);
+            this.listBox3.Size = new System.Drawing.Size(384, 214);
             this.listBox3.TabIndex = 119;
             // 
             // button2
@@ -148,7 +148,7 @@
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(407, 42);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(428, 27);
+            this.button2.Size = new System.Drawing.Size(386, 27);
             this.button2.TabIndex = 118;
             this.button2.Text = "Lista de professores";
             this.button2.UseVisualStyleBackColor = false;
@@ -192,7 +192,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(889, 332);
+            this.ClientSize = new System.Drawing.Size(819, 332);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label6);

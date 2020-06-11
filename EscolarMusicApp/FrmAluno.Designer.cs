@@ -87,7 +87,7 @@
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(288, 31);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(336, 23);
+            this.button2.Size = new System.Drawing.Size(353, 23);
             this.button2.TabIndex = 100;
             this.button2.Text = "Lista de alunos";
             this.button2.UseVisualStyleBackColor = false;
@@ -101,7 +101,7 @@
             this.listBox2.ItemHeight = 15;
             this.listBox2.Location = new System.Drawing.Point(289, 53);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(336, 184);
+            this.listBox2.Size = new System.Drawing.Size(352, 184);
             this.listBox2.TabIndex = 101;
             this.listBox2.SelectedIndexChanged += new System.EventHandler(this.listBox2_SelectedIndexChanged);
             // 
@@ -220,7 +220,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(651, 309);
+            this.ClientSize = new System.Drawing.Size(700, 309);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label6);

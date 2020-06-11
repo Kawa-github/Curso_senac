@@ -17,6 +17,7 @@ namespace EscolarMusicApp
 
         public Curso()
         {
+           // Carga_course = 0;
         }
 
         public Curso(int id_course, string nome_course, string carga_course, string valor_course) //Método construtor
